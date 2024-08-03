@@ -22,8 +22,8 @@ This project can be used as a starting point for a real-world cafe website. Simp
 # Installation
 To view the project, simply open the index.html file in a web browser.
 
-Credits
+# Credits
 This project was created as part of the Free Code Camp curriculum.
 
-License
+# License
 This project is licensed under the MIT License.
